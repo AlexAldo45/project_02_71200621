@@ -19,7 +19,7 @@
           <div class="chat">
             <div class="atasChat">
               <span class="atasChat2">
-                ujahdkw
+                @aldo
               </span>
             </div>
             <!-- test -->
